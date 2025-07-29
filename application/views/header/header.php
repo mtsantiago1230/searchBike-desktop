@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>SearchBike</title>
+    <title>SearchBike-desktop</title>
 
 
     <meta name="author" content="Yeiner Javier bejarano">
